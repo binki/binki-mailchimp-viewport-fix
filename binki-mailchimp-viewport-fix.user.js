@@ -3,6 +3,7 @@
 // @homepageURL https://github.com/binki/binki-mailchimp-viewport-fix
 // @version 1.0.0
 // @match https://mailchi.mp/*
+// @match https://*.campaign-archive.com/*
 // ==/UserScript==
 
 const metaViewport = document.querySelector('meta[name=viewport]');
