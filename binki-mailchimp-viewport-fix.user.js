@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name binki-mailchimp-viewport-fix
 // @homepageURL https://github.com/binki/binki-mailchimp-viewport-fix
-// @version 1.0.0
+// @version 1.0.1
 // @match https://mailchi.mp/*
 // @match https://*.campaign-archive.com/*
 // ==/UserScript==
